@@ -37,3 +37,7 @@ javac -d bin src/scriptrunner/*.java
 java -cp bin scriptrunner.Main
 
 ```
+
+
+https://github.com/user-attachments/assets/df67ff5e-7567-4429-a01d-826a98e8c4ff
+
